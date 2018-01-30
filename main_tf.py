@@ -26,7 +26,7 @@ CLUSTERONE_USERNAME = "jbbrown"
 LOCAL_LOG_LOCATION = "~/Code/jb-brown/clusterone/logs"
 
 # Where is the dataset located? This should be something like "~/Documents/data/" if the dataset is in "~/Documents/data/comma"
-LOCAL_DATASET_LOCATION = "~/Code/jb-brown/clusterone/dataset"
+LOCAL_DATASET_LOCATION = "~/Code/jb-brown/clusterone/dataset/"
 
 # Name of the data folder. In the example above, "comma"
 LOCAL_DATASET_NAME = "comma-train"
