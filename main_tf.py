@@ -29,7 +29,7 @@ LOCAL_LOG_LOCATION = "~/Code/jb-brown/clusterone/logs"
 LOCAL_DATASET_LOCATION = "~/Code/jb-brown/clusterone/dataset"
 
 # Name of the data folder. In the example above, "comma"
-LOCAL_DATASET_NAME = "comma"
+LOCAL_DATASET_NAME = "comma-train"
 
 #clusterone
 from clusterone import get_data_path, get_logs_path
